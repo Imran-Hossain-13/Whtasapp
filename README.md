@@ -1,16 +1,22 @@
-# whatsapp
+# This is an app based on whatsapp(Only design)
 
-A new Flutter project.
+## It's also responsive for web screen
 
-## Getting Started
+### Here I used
+<li>Getx
+<hr>
 
-This project is a starting point for a Flutter application.
+<h3>Home Screen</h3>
+<img alt="Something wrong" src="./git-image/home.jpg" height="400">
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Chat Screen 1</h3>
+<img alt="Something wrong" src="./git-image/chat-1.jpg" height="400">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3>Chat Screen 2</h3>
+<img alt="Something wrong" src="./git-image/chat-2.jpg" height="400">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Web Screen 1</h3>
+<img alt="Something wrong" src="./git-image/web_screen.png" height="400">
+
+<h3>Web Screen 2</h3>
+<img alt="Something wrong" src="./git-image/web-screen2.png" height="400">
