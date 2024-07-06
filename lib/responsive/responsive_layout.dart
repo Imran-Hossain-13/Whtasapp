@@ -22,6 +22,7 @@ class ResponsiveLayout extends StatelessWidget {
           return webScreenLayout;
         }else{
           // Mobile Screen
+          counterController.changeScreenSize(constrains.maxWidth);
           return mobileScreenLayout;
         }
       }

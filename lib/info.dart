@@ -5,7 +5,7 @@ const info = [
     'message': 'Hey, What are you doing?',
     'time': '4:23 pm',
     'profilePic':
-    'https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/441304628_998964618459168_2030028071019915156_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEwbrX2CMY1bEs9dLcqhY3cbG3j5RCJNyZsbePlEIk3JqWZkffgHO-IQPCuNuqwFlW9UkFSlPLzFi01nQHvi1-o&_nc_ohc=BzdYMy4HSyIQ7kNvgHPuDsu&_nc_ht=scontent.fdac13-1.fna&oh=00_AYClrdP0-8qAXZloEHZhaokHjqNIx56T6un-5OWaH9A_VA&oe=668343DD',
+    'https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/441304628_998964618459168_2030028071019915156_n.jpg?stp=dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEwbrX2CMY1bEs9dLcqhY3cbG3j5RCJNyZsbePlEIk3JqWZkffgHO-IQPCuNuqwFlW9UkFSlPLzFi01nQHvi1-o&_nc_ohc=fhuB9i1HAHcQ7kNvgEcqTOo&_nc_ht=scontent.fdac13-1.fna&oh=00_AYBEebyTn1pgY5kWQ-ODDM2Jfn8XQFN2uzIK1M4oLgmoIA&oe=668F215D',
   },
   {
     'name': 'Rivaan Ranawat',

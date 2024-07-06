@@ -2,8 +2,12 @@
 
 ## It's also responsive for web screen
 
+
 ### Here I used
-<li>Getx
+<li>Getx</li>
+<li>If screen doesn't exist in website, than button will appear to redirect in web screen</li>
+
+
 <hr>
 
 <h3>Home Screen</h3>

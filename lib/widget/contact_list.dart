@@ -33,6 +33,8 @@ class _ContactListState extends State<ContactList> {
                          counterController.imgUrl(info[index]['profilePic'].toString());
                          counterController.chatUserName(info[index]['name'].toString());
                          if(counterController.screenSize < 900){
+                           SnackBar sc = SnackBar(content: Text(counterController.screenSize.toString()));
+                           ScaffoldMessenger.of(context).showSnackBar(sc);
                            Navigator.of(context).push(MaterialPageRoute(builder: (context)=>MobileChatScreen()));
                          }
                        },
